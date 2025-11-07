@@ -1,0 +1,60 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+a {
+  color: #00B7FF;
+}
+h1 {
+  color: #ff7b00;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #6000fa;
+  font-size: 1.5em;
+  margin-bottom: 15px;
+}
+
+p {
+  color: #ffffff;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+nav {
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.btn {
+  background-color: #00B7FF;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0099cc;
+}
+
+.form-input {
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 100%;
+}
